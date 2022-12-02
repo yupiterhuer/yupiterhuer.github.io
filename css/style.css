@@ -1,0 +1,94 @@
+body {
+	background-color: #000;
+}
+#s {
+	position: absolute;
+    top: 5%;
+    left: 50%;
+    -moz-transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
+table.main {
+	width: 552px;
+}
+table.header {
+	width: 100%;
+	background-color: #121212;
+	border-radius: 8px;
+	margin: auto;
+	margin-bottom: 1px;
+}
+table.hero {
+	width: 100%;
+	background: rgb(100,43,115);
+	background: linear-gradient(90deg, rgba(100,43,115,1) 0%, rgba(35,17,119,1) 63%);
+	border-radius: 8px;
+	margin: auto;
+	margin-top: 4px;
+	margin-bottom: 2px;
+}
+table.hero h1 {
+	margin: 25px 0 0 10px;
+	font-size: 22px;
+}
+table.hero p {
+	margin: 0 0 20px 10px;
+}
+table.menu {
+	width: 100%;
+	background-color: #121212;
+	border-radius: 8px;
+	margin-top: 4px;
+	margin: auto;
+}
+table.asd {
+	width: 100%;
+}
+table.asd td.a {
+	width: 25%;
+}
+table.asd td.b {
+	width: 75%;
+}
+table.asd td.bx {
+	width: 75%;
+}
+h1, h2, h3, h4, h5, h6, p {
+	color: #fff;
+	font-family: monospace;
+	margin-inline: 5px;
+}
+table.asd h2 {
+	margin: 0 0 0 0;
+}
+a {
+	color: #fff;
+	text-decoration-color: #710192;
+	font-family: monospace;
+}
+table.menu a {
+	color: #fff;
+	text-decoration-color: #710192;
+	font-family: monospace;
+}
+table.header a {
+	color: #fff;
+	text-decoration: none;
+}
+table.header h1 {
+	margin: auto;
+	position: left;
+}
+table.header td.as {
+	margin-inline: 10px;
+	width: 4%;
+}
+td.as img {
+	margin: auto;
+	margin-inline: 5px;
+}
+img.flag {
+	float: right;
+	margin-inline-end: 8px;
+}
