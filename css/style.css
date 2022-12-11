@@ -10,7 +10,7 @@ body {
     transform: translateX(-50%);
 }
 table.main {
-	width: 600x;
+	width: 600px;
 }
 table.header {
 	width: 100%;
@@ -18,6 +18,18 @@ table.header {
 	border-radius: 8px;
 	margin: auto;
 	margin-bottom: 1px;
+}
+table.wed {
+	width: 100%;
+	background-color: #121212;
+	border-radius: 8px;
+	margin-bottom: 5px;
+}
+table.wed h1 {
+	margin: 5px 0 5px 5px;
+}
+table.wed h2, h3, h4, h5, h6, p {
+	margin: 5px 0 5px 5px;
 }
 table.hero {
 	width: 100%;
