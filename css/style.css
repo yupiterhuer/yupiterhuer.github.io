@@ -10,7 +10,7 @@ body {
     transform: translateX(-50%);
 }
 table.main {
-	width: 552px;
+	width: 600x;
 }
 table.header {
 	width: 100%;
@@ -42,6 +42,14 @@ table.menu {
 	margin-top: 4px;
 	margin: auto;
 }
+table.menux {
+	width: 100%;
+	background-color: #121212;
+	border-radius: 8px;
+	margin-top: 4px;
+	margin-bottom: 2px;
+	margin: auto;
+}
 table.asd {
 	width: 100%;
 }
@@ -51,16 +59,47 @@ table.asd td.a {
 table.asd td.b {
 	width: 75%;
 }
+div.submenu a {
+	font-size: 9px;
+}
+td.ww {
+	margin: auto;
+}
 table.asd td.bx {
 	width: 75%;
+}
+table.menu p {
+	margin-top: 1px;
+	margin-bottom: 0;
+}
+table.menux p {
+	margin-top: 1px;
+	margin-bottom: 0;
 }
 h1, h2, h3, h4, h5, h6, p {
 	color: #fff;
 	font-family: monospace;
 	margin-inline: 5px;
 }
+p.wd {
+	font-size: 10px;
+	margin: 1px 0 0 6px;
+}
 table.asd h2 {
 	margin: 0 0 0 0;
+}
+table.menu h3 {
+	margin: 5px 0 3px 6px;
+}
+table.menux h3 {
+	margin: 5px 0 3px 6px;
+	font-size: 18px;
+}
+div.submenu p a {
+	font-size: 11px;
+}
+li a {
+	margin: auto;
 }
 a {
 	color: #fff;
@@ -68,6 +107,11 @@ a {
 	font-family: monospace;
 }
 table.menu a {
+	color: #fff;
+	text-decoration-color: #710192;
+	font-family: monospace;
+}
+table.menux a {
 	color: #fff;
 	text-decoration-color: #710192;
 	font-family: monospace;
@@ -88,7 +132,32 @@ td.as img {
 	margin: auto;
 	margin-inline: 5px;
 }
+a:hover {
+	background: rgb(100,43,115);
+}
+a.asdfg {
+	text-decoration: none;
+}
 img.flag {
 	float: right;
 	margin-inline-end: 8px;
+}
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
 }
