@@ -25,10 +25,19 @@ table.wed {
 	border-radius: 8px;
 	margin-bottom: 5px;
 }
-table.wed h1 {
-	margin: 5px 0 5px 5px;
+table.wede {
+	width: 99%;
+	background-color: #121212;
+	border-radius: 8px;
+	margin-bottom: 5px;
 }
-table.wed h2, h3, h4, h5, h6, p {
+table.spacerlook {
+	width: 100%;
+	background-color: #121212;
+	border-radius: 8px;
+	margin-bottom: 1%;
+}
+table.wed h1, h2, h3, h4, h5, h6, p {
 	margin: 5px 0 5px 5px;
 }
 table.hero {
