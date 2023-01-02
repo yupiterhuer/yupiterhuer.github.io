@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
+#EXTINF:-1 tvg-id="2x2.ru" status="timeout",2x2 (720p) [Not 24/7]
+https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img/425.png" ,TLC HD 20.06.22-iptv.org.ua
 https://sc.id-tv.kz/TLCHD_34_35.m3u8
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img/223.png" ,Nat Geo Wild HD
@@ -9,9 +11,9 @@ https://sc.id-tv.kz:443/NatGeogHD_34_35.m3u8
 https://sc.id-tv.kz:443/Disc_chHD_34_35.m3u8
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img/415.png" ,HD Life
 https://sc.id-tv.kz/hdl_34_35.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/614.png" ,Кухня ТВ HD
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/614.png" ,ГЉГіГµГ­Гї Г’Г‚ HD
 https://sc.id-tv.kz/kuhnya_hd_34_35.m3u8
-#EXTINF:-1 ,Техно 24
+#EXTINF:-1 ,Г’ГҐГµГ­Г® 24
 https://sc.id-tv.kz:443/Tehno24_34_35.m3u8
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img/774.png" ,Flixsnip
 https://sc.id-tv.kz/FlixSnip_34_35.m3u8
@@ -19,7 +21,7 @@ https://sc.id-tv.kz/FlixSnip_34_35.m3u8
 https://sc.id-tv.kz:443/ViasatHistory_34_35.m3u8
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img/3779.png" ,Viasat Nature
 https://sc.id-tv.kz:443/ViasatNature_34_35.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/675.png" ,Моя Планета
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/675.png" ,ГЊГ®Гї ГЏГ«Г Г­ГҐГІГ 
 https://sc.id-tv.kz/MoyaPlaneta_34_35.m3u8
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img/1394.png",History
 https://sc.id-tv.kz/HistoryHD_36_37.m3u8
@@ -31,29 +33,29 @@ https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
 https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img/3092.png" ,FOX HD
 https://sc.id-tv.kz/FOX_HD_34_35.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2020.png" ,Дом Кино Премиум HD
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2020.png" ,Г„Г®Г¬ ГЉГЁГ­Г® ГЏГ°ГҐГ¬ГЁГіГ¬ HD
 https://sc.id-tv.kz/domkino_hd_34_35.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2518.png" ,Дорама HD
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2518.png" ,Г„Г®Г°Г Г¬Г  HD
 https://sc.id-tv.kz/dorama_hd_34_35.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/566.png" ,КИНОПРЕМЬЕРА HD
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/566.png" ,ГЉГ€ГЌГЋГЏГђГ…ГЊГњГ…ГђГЂ HD
 https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/1584.png" ,Мужское Кино HD
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/1584.png" ,ГЊГіГ¦Г±ГЄГ®ГҐ ГЉГЁГ­Г® HD
 https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/462.png" ,Киносвидание HD
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/462.png" ,ГЉГЁГ­Г®Г±ГўГЁГ¤Г Г­ГЁГҐ HD
 https://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/987.png" ,КИНОСЕМЬЯ
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/987.png" ,ГЉГ€ГЌГЋГ‘Г…ГЊГњГџ
 https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/644.png" ,Киномикс HD
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/644.png" ,ГЉГЁГ­Г®Г¬ГЁГЄГ± HD
 https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/12.png" ,РОДНОЕ КИНО
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/12.png" ,ГђГЋГ„ГЌГЋГ… ГЉГ€ГЌГЋ
 https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/821.png" ,Кинокомедия HD
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/821.png" ,ГЉГЁГ­Г®ГЄГ®Г¬ГҐГ¤ГЁГї HD
 https://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/542.png" ,Кинохит HD
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/542.png" ,ГЉГЁГ­Г®ГµГЁГІ HD
 https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/799.png" ,КИНОСЕРИЯ
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/799.png" ,ГЉГ€ГЌГЋГ‘Г…ГђГ€Гџ
 https://sc.id-tv.kz:443/Kinoseriya_hd_34_35.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2493.png" ,Киноужас
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2493.png" ,ГЉГЁГ­Г®ГіГ¦Г Г±
 https://sc.id-tv.kz:443/Kinouzhas_hd_34_35.m3u8
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2492.png" ,Amedia 2
 https://sc.id-tv.kz/A2_36_37.m3u8
@@ -61,113 +63,113 @@ https://sc.id-tv.kz/A2_36_37.m3u8
 https://sc.id-tv.kz:443/TV1000_34_35.m3u8
 #EXTINF:-1 ,TV1000 Action
 https://sc.id-tv.kz:443/TV1000Action_34_35.m3u8 
-#EXTINF:-1 ,TV1000 Русское кино
+#EXTINF:-1 ,TV1000 ГђГіГ±Г±ГЄГ®ГҐ ГЄГЁГ­Г®
 https://sc.id-tv.kz:443/TV1000RuKino_34_35.m3u8
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2233.png" ,ZEE TV
 https://sc.id-tv.kz/ZeeTVHD_34_35.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2350.png" ,Поехали
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2350.png" ,ГЏГ®ГҐГµГ Г«ГЁ
 https://sc.id-tv.kz/poehali_34_35.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/518.png" ,НСТ iptv.org.ua
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/518.png" ,ГЌГ‘Г’ iptv.org.ua
 https://sc.id-tv.kz/NSTV.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/834.png" ,Дом Кино
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/834.png" ,Г„Г®Г¬ ГЉГЁГ­Г®
 https://sc.id-tv.kz:443/DomKino_36_37.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2403.png" ,Иллюзион +
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2403.png" ,Г€Г«Г«ГѕГ§ГЁГ®Г­ +
 https://sc.id-tv.kz:443/IlluzionPlus_36_37.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/53.png" ,Русский Иллюзион
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/53.png" ,ГђГіГ±Г±ГЄГЁГ© Г€Г«Г«ГѕГ§ГЁГ®Г­
 https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2419.png" ,Охота и рыбалка
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2419.png" ,ГЋГµГ®ГІГ  ГЁ Г°Г»ГЎГ Г«ГЄГ 
 https://sc.id-tv.kz:443/Ribalka_Ohota_36_37.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/1757.png" ,О!
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/1757.png" ,ГЋ!
 https://sc.id-tv.kz/o_36_37.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2444.png" ,Мужской
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2444.png" ,ГЊГіГ¦Г±ГЄГ®Г©
 https://sc.id-tv.kz/Mujskoi_34_35.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2570.png" ,КТК
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2570.png" ,ГЉГ’ГЉ
 https://sc.id-tv.kz/KTK_34_35.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/79.png" ,СТС
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/79.png" ,Г‘Г’Г‘
 https://sc.id-tv.kz/STS_34_35.m3u8
-#EXTINF:-1 ,НТВ-Мир 
+#EXTINF:-1 ,ГЌГ’Г‚-ГЊГЁГ° 
 https://sc.id-tv.kz:443/NTV_34_35.m3u8
-#EXTINF:-1  ,ТНТ-International (СНГ) 
+#EXTINF:-1  ,Г’ГЌГ’-International (Г‘ГЌГѓ) 
 https://sc.id-tv.kz:443/tntComedy_34_35.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/BZcx0Vz9/images-1.jpg" ,Пятница International
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/BZcx0Vz9/images-1.jpg" ,ГЏГїГІГ­ГЁГ¶Г  International
 https://sc.id-tv.kz/friday_36_37.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/YSDtYMjK/image.jpg" ,ТНТ4 International
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/YSDtYMjK/image.jpg" ,Г’ГЌГ’4 International
 https://sc.id-tv.kz:443/tnt4_34_35.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsRGs7Y7/International.png",Рен ТВ International
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SsRGs7Y7/International.png",ГђГҐГ­ Г’Г‚ International
 https://sc.id-tv.kz:443/RenTV_36_37.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2008.png" ,Авто24
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2008.png" ,ГЂГўГІГ®24
 https://sc.id-tv.kz:443/Avto24_36_37.m3u8
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2129.png" ,Euronews
 https://sc.id-tv.kz:443/Euronews_34_35.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2304.png" ,Телекафе
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2304.png" ,Г’ГҐГ«ГҐГЄГ ГґГҐ
 https://sc.id-tv.kz:443/Telecafe_36_37.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/930.png" ,ЕДА Премиум
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/930.png" ,Г…Г„ГЂ ГЏГ°ГҐГ¬ГЁГіГ¬
 https://sc.id-tv.kz/EdaHD_34_35.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2026.png" ,Бобёр
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2026.png" ,ГЃГ®ГЎВёГ°
 https://sc.id-tv.kz/bober_34_35.m3u8
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2549.png" ,Cinema HD
 https://sc.id-tv.kz/Cinema_34_35.m3u8
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img/410.png" ,Da Vinci Kids
 https://sc.id-tv.kz/DaVinci_34_35.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2572.png" ,Седьмой канал
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2572.png" ,Г‘ГҐГ¤ГјГ¬Г®Г© ГЄГ Г­Г Г«
 https://sc.id-tv.kz/7_kanal_34_35.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/187.png" ,Россия К
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/187.png" ,ГђГ®Г±Г±ГЁГї ГЉ
 https://sc.id-tv.kz:443/RossiyaK_34_35.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2638.png" ,Новое телевидение
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2638.png" ,ГЌГ®ГўГ®ГҐ ГІГҐГ«ГҐГўГЁГ¤ГҐГ­ГЁГҐ
 https://sc.id-tv.kz:443/NovoeTVHD_34_35.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2026.png" ,Бобёр
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2026.png" ,ГЃГ®ГЎВёГ°
 https://sc.id-tv.kz:443/bober_34_35.m3u8
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img/917.png" ,Nick Jr
 https://sc.id-tv.kz:443/NickJr_36_37.m3u8
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img/423.png" ,Nickelodeon
 https://sc.id-tv.kz:443/Nickelodeon_34_35.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/1332.png" ,Мульт
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/1332.png" ,ГЊГіГ«ГјГІ
 https://sc.id-tv.kz:443/Mult_34_35.m3u8
-#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/740.png" ,Карусель
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/740.png" ,ГЉГ Г°ГіГ±ГҐГ«Гј
 https://sc.id-tv.kz:443/Karusel_36_37.m3u8
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img/810.png" ,Gulli
 https://sc.id-tv.kz:443/Gulli_34_35.m3u8
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img/555.png" ,Tiji TV
 https://sc.id-tv.kz:443/TiJi_34_35.m3u8
-#EXTINF:-1 ,7 канал Казахстан
+#EXTINF:-1 ,7 ГЄГ Г­Г Г« ГЉГ Г§Г ГµГ±ГІГ Г­
 https://sc.id-tv.kz:443/7_kanal_34_35.m3u8
 #EXTINF:-1 ,Astana TV
 https://sc.id-tv.kz/Astana.m3u8
-#EXTINF:-1 ,Алматы
+#EXTINF:-1 ,ГЂГ«Г¬Г ГІГ»
 https://sc.id-tv.kz:443/Almaty_34_35.m3u8
-#EXTINF:-1 ,ТНВ-Планета
+#EXTINF:-1 ,Г’ГЌГ‚-ГЏГ«Г Г­ГҐГІГ 
 https://sc.id-tv.kz:443/TNV-Planeta_34_35.m3u8
 #EXTINF:-1 ,Atameken Business TV
 https://sc.id-tv.kz/Atameken.m3u8
-#EXTINF:-1 ,СТВ Казахстан
+#EXTINF:-1 ,Г‘Г’Г‚ ГЉГ Г§Г ГµГ±ГІГ Г­
 https://sc.id-tv.kz/STV.m3u8
 #EXTINF:-1 ,Q Kino Alem
 https://sc.id-tv.kz:443/QKinoAlem_34_35.m3u8
 #EXTINF:-1 ,Q Kino Hit
 https://sc.id-tv.kz:443/QKinoHIT_34_35.m3u8
-#EXTINF:-1 ,КТК
+#EXTINF:-1 ,ГЉГ’ГЉ
 http://92.46.127.146:8080/KTK-L3-TRANS/index.m3u8
 #EXTINF:-1 ,TALIM TV
 https://sc.id-tv.kz:443/TALIMTV_34_35.m3u8
-#EXTINF:-1 ,Хабар 24
+#EXTINF:-1 ,Г•Г ГЎГ Г° 24
 http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
-#EXTINF:-1 ,Ел Арна
+#EXTINF:-1 ,Г…Г« ГЂГ°Г­Г 
 https://sc.id-tv.kz/ElArna.m3u8
-#EXTINF:-1 ,Ел Арна HD
+#EXTINF:-1 ,Г…Г« ГЂГ°Г­Г  HD
 https://sc.id-tv.kz:443/ElArna_34_35.m3u8
-#EXTINF:-1 ,Жетысу
+#EXTINF:-1 ,Г†ГҐГІГ»Г±Гі
 https://sc.id-tv.kz:443/Jetusu_34_35.m3u8
-#EXTINF:-1 ,Той Думан
+#EXTINF:-1 ,Г’Г®Г© Г„ГіГ¬Г Г­
 https://sc.id-tv.kz:443/ToiDuman_34_35.m3u8
-#EXTINF:-1 ,Туран ТВ
+#EXTINF:-1 ,Г’ГіГ°Г Г­ Г’Г‚
 https://sc.id-tv.kz:443/TuranTV_34_35.m3u8
-#EXTINF:-1 tvg-id="31Kanal.kz" status="timeout",31 канал (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="31Kanal.kz" status="timeout",31 ГЄГ Г­Г Г« (576p) [Not 24/7]
 https://sc.id-tv.kz/31Kanal.m3u8
 #EXTINF:-1 tvg-id="AbaiTV.kz" status="timeout",Abai TV
 https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
-#EXTINF:-1 tvg-id="AlmatyTV.kz" status="timeout",Алматы (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="AlmatyTV.kz" status="timeout",ГЂГ«Г¬Г ГІГ» (576p) [Not 24/7]
 https://sc.id-tv.kz/Almaty.m3u8
-#EXTINF:-1 tvg-id="AstanaTV.kz" status="timeout",Астана (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="AstanaTV.kz" status="timeout",ГЂГ±ГІГ Г­Г  (576p) [Not 24/7]
 https://sc.id-tv.kz/Astana.m3u8
 #EXTINF:-1 tvg-id="AtamekenBusiness.kz" status="timeout",Atameken Business (576p) [Not 24/7]
 https://sc.id-tv.kz/Atameken.m3u8
@@ -177,21 +179,21 @@ https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 https://sc.id-tv.kz/CaspianNews.m3u8
 #EXTINF:-1 tvg-id="GakkuTV.kz" status="timeout",Gakku (576p) [Not 24/7]
 https://sc.id-tv.kz/Gakku.m3u8
-#EXTINF:-1 tvg-id="Khabar24.kz" status="timeout",Хабар 24 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Khabar24.kz" status="timeout",Г•Г ГЎГ Г° 24 (720p) [Not 24/7]
 http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
-#EXTINF:-1 tvg-id="Khabar24.kz" status="timeout",Хабар 24 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Khabar24.kz" status="timeout",Г•Г ГЎГ Г° 24 (720p) [Not 24/7]
 https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="KTK.kz" status="online",КТК (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="KTK.kz" status="online",ГЉГ’ГЉ (360p) [Not 24/7]
 http://89.218.30.37/ktklive/live.hq/playlist.m3u8
-#EXTINF:-1 tvg-id="KTK.kz" status="timeout",КТК (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="KTK.kz" status="timeout",ГЉГ’ГЉ (576p) [Not 24/7]
 https://sc.id-tv.kz/KTK.m3u8
-#EXTINF:-1 tvg-id="MTRK.kz" status="timeout",МТРК (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="MTRK.kz" status="timeout",ГЊГ’ГђГЉ (576p) [Not 24/7]
 https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
-#EXTINF:-1 tvg-id="Novoetelevidenie.kz" status="timeout",Новое телевидение (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="Novoetelevidenie.kz" status="timeout",ГЌГ®ГўГ®ГҐ ГІГҐГ«ГҐГўГЁГ¤ГҐГ­ГЁГҐ (576p) [Not 24/7]
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Qazaqstan.kz" status="timeout",Qazaqstan TV [Geo-blocked]
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="error",7 канал (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="" status="error",7 ГЄГ Г­Г Г« (576p) [Not 24/7]
 https://sc.id-tv.kz/7_kanal.m3u8
 #EXTINF:-1 tvg-id="" status="timeout",Qazaqstan TV International
 https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
